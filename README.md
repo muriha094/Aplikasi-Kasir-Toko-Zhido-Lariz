@@ -1,6 +1,7 @@
 # Aplikasi Kasir Toko Zhido Lariz
 
 Aplikasi sederhana berbasis Java untuk sistem pembayaran dan pembuatan nota di Toko Zhido Lariz.
+
 [![made-with-java](https://img.shields.io/badge/Made%20with-Java-red.svg)](https://www.java.com)
 
 ## Deskripsi
